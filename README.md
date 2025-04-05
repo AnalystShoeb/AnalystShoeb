@@ -40,8 +40,6 @@ I am a **Data Analyst** with **7+ years of experience** in Retail, Sales, and Su
 
 ---
 
-This version is more structured and professional while maintaining a personal touch. What do you think? Want any refinements? 😊
-
 <!--
 **AnalystShoeb/AnalystShoeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
