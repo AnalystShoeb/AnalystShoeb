@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shoebur Rahman  
 
-### 📊 Data Analyst | SQL | Power BI | Python  
+### 📊 Data Analyst | SQL | Excel | Power BI | Python  
 
 I am a **Data Analyst** with **7+ years of experience** in Retail, Sales, and Supply Chain analytics. My expertise lies in **data-driven decision-making**, developing **interactive dashboards**, and optimizing **business performance through insights**. I have a strong background in **SQL, Python, Power BI, and Excel**, with a passion for transforming raw data into actionable insights.  
 
